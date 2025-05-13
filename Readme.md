@@ -41,5 +41,3 @@ Interface intuitiva e rápida
 
 📝 Licença
 Este projeto está sob a licença MIT.
-
-💡 DICA: no Canva, use uma fonte monoespaçada (como Courier New ou IBM Plex Mono) para o bloco de código.
