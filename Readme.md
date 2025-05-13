@@ -15,18 +15,6 @@ Sua plataforma para montar PCs personalizados com confiança.
 
 📦 npm – Gerenciador de pacotes
 
-🗂️ Estrutura do Projeto
-bash
-Copiar
-Editar
-project/
-├── .bolt/                  # Configurações Bolt
-├── node_modules/           # Dependências
-├── index.html              # HTML principal
-├── package.json            # Configurações e scripts
-├── tailwind.config.js      # Tailwind
-├── vite.config.ts          # Vite
-└── tsconfig.json           # TypeScript
 🚀 Como Executar
 bash
 Copiar
